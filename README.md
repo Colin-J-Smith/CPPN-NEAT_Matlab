@@ -1,5 +1,5 @@
-# MCEN5228
-CPPN Matlab Implementation using HyperNEAT and a dynamic voxel simulator.
+# CPPN-NEAT
+CPPN Matlab Implementation using HyperNEAT and a simple dynamic voxel simulator.
 
 To run: 
 1) Open matlab and open the file "cppn_neat_main." in the editor.
